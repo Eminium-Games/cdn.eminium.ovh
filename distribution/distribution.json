@@ -29,7 +29,7 @@
           "type": "File",
           "artifact": {
             "size": 1551,
-            "url": "https://eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/fml.toml",
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/fml.toml",
             "MD5": "f222c7e4d15992f0de10b9f35656ccde",
             "path": "config/fml.toml"
           }
@@ -40,7 +40,7 @@
           "type": "File",
           "artifact": {
             "size": 578,
-            "url": "https://eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/neoforge-client.toml",
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/neoforge-client.toml",
             "MD5": "7f81c16ea3d467da83df18250f772149",
             "path": "config/neoforge-client.toml"
           }
@@ -51,7 +51,7 @@
           "type": "File",
           "artifact": {
             "size": 772,
-            "url": "https://eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/neoforge-common.toml",
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/files/config/neoforge-common.toml",
             "MD5": "914110a675baa858ef6725e3f56e513c",
             "path": "config/neoforge-common.toml"
           }
