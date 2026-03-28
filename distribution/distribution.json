@@ -24,24 +24,24 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.neoforged:neoforge:21.1.1",
+          "id": "net.neoforged:neoforge:21.1.222",
           "name": "NeoForge",
           "type": "NeoForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 0,
             "MD5": "none",
-            "url": "https://maven.neoforged.net/api/maven/versions/net/neoforged/neoforge/21.1.1/neoforge-21.1.1-installer.jar"
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.222/neoforge-21.1.222-installer.jar"
           },
           "subModules": [
             {
-              "id": "com.mamiyaotaru:betterf3:11.0.1@jar",
+              "id": "com.mamiyaotaru:betterf3:11.0.3@jar",
               "name": "Better F3",
               "type": "ForgeMod",
               "required": true,
               "artifact": {
                 "size": 0,
-                "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/TobtOr9W/BetterF3-11.0.1-NeoForge-1.21.jar",
+                "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
                 "MD5": "none"
               }
             }
