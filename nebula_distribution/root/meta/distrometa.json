@@ -1,11 +1,11 @@
 {
   "$schema": "file:///E:/Dev/cdn.eminium.ovh/nebula_distribution/root/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "https://eminium.ovh/api/rss",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "1484903800266293379",
+      "smallImageText": "Eminium",
+      "smallImageKey": "seal-circle"
     }
   }
 }
