@@ -1,18 +1,21 @@
 {
   "$schema": "file:///E:/Dev/cdn.eminium.ovh/nebula_distribution/root/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "",
-    "name": "EminiumFactions (Minecraft 1.21.1)",
-    "description": "EminiumFactions Running Minecraft 1.21.1",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "version": "11.0.0.0.2",
+    "name": "EminiumFactions",
+    "description": "EminiumFactions Running Minecraft 1.21.1 (Fabric v0.18.5)",
+    "icon": "https://eminium.ovh/storage/img/eminium-logo.png",
+    "address": "82.64.85.47:25566",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "1484903800266293379",
+      "largeImageKey": "Eminium",
+      "largeImageText": "seal-circle"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.18.5"
   },
   "untrackedFiles": []
 }
