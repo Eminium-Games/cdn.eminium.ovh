@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "1484903800266293379",
+    "smallImageText": "Eminium",
+    "smallImageKey": "seal-circle"
+  },
+  "java": {
+    "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+  },
+  "rss": "https://eminium.ovh/api/rss",
+  "servers": [
+    {
+      "id": "Eminium-1.21.1",
+      "name": "Eminium Factions",
+      "description": "Join the Eminium Minecraft Factions server!",
+      "icon": "https://eminium.ovh/storage/img/eminium-logo.png",
+      "version": "11.0.0.0.1",
+      "address": "82.64.85.47:25566",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "Eminium",
+        "largeImageText": "Eminium Factions",
+        "largeImageKey": "server-eminium"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "better-f3",
+          "name": "Better F3",
+          "type": "neoforge",
+          "version": "11.0.3",
+          "required": true,
+          "description": "Améliore l'affichage des informations F3",
+          "artifact": {
+            "size": 0,
+            "MD5": "none",
+            "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
