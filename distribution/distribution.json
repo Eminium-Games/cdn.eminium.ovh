@@ -11,8 +11,8 @@
       "id": "EminiumFactions-1.21.1",
       "name": "EminiumFactions",
       "description": "EminiumFactions Running Minecraft 1.21.1",
-      "icon": null,
-      "version": "",
+      "icon": "https://eminium.ovh/storage/img/eminium-logo.png",
+      "version": "11.0.0.0.1",
       "address": "82.64.85.47:25566",
       "minecraftVersion": "1.21.1",
       "discord": {
