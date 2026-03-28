@@ -24,6 +24,30 @@
       "autoconnect": false,
       "modules": [
         {
+          "id": "net.neoforged:neoforge:21.1.1",
+          "name": "NeoForge",
+          "type": "NeoForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 0,
+            "MD5": "none",
+            "url": "https://maven.neoforged.net/api/maven/versions/net/neoforged/neoforge/21.1.1/neoforge-21.1.1-installer.jar"
+          },
+          "subModules": [
+            {
+              "id": "com.mamiyaotaru:betterf3:11.0.1@jar",
+              "name": "Better F3",
+              "type": "ForgeMod",
+              "required": true,
+              "artifact": {
+                "size": 0,
+                "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/TobtOr9W/BetterF3-11.0.1-NeoForge-1.21.jar",
+                "MD5": "none"
+              }
+            }
+          ]
+        },
+        {
           "id": "fml.toml",
           "name": "fml.toml",
           "type": "File",
