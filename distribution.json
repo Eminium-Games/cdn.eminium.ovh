@@ -27,7 +27,7 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "better-f3",
+          "id": "net.betterf3:BetterF3-NeoForge:11.0.1",
           "name": "Better F3",
           "type": "neoforge",
           "version": "11.0.1",
