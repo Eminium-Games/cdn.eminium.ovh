@@ -30,14 +30,14 @@
           "id": "better-f3",
           "name": "Better F3",
           "type": "neoforge",
-          "version": "1.6.0",
+          "version": "11.0.1",
           "required": true,
           "description": "Améliore l'affichage des informations F3",
           "subModId": "betterf3",
-          "maven": {
-            "group": "com.mamiyaotaru",
-            "artifact": "betterf3",
-            "version": "1.6.0"
+          "artifact": {
+            "size": 0,
+            "MD5": "none",
+            "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/TobtOr9W/BetterF3-11.0.1-NeoForge-1.21.jar"
           }
         }
       ]
