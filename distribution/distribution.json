@@ -27,13 +27,12 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.betterf3:BetterF3-NeoForge:11.0.1",
+          "id": "betterf3",
           "name": "Better F3",
-          "type": "NeoForge",
+          "type": "ForgeMod",
           "version": "11.0.1",
           "required": true,
           "description": "Améliore l'affichage des informations F3",
-          "mavenId": "net.betterf3:BetterF3-NeoForge:11.0.1",
           "maven": "net.betterf3:BetterF3-NeoForge:11.0.1",
           "artifact": {
             "size": 478563,
