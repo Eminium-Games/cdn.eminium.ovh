@@ -34,6 +34,7 @@
           "required": true,
           "description": "Améliore l'affichage des informations F3",
           "subModId": "betterf3",
+          "maven": "com.github.betterf3:betterf3-neoforge:11.0.1",
           "artifact": {
             "size": 0,
             "MD5": "none",
