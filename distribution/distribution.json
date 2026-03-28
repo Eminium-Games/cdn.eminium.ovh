@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "rss": "https://eminium.ovh/api/rss",
   "discord": {
-    "clientId": "1086936373057040395",
-    "smallImageText": "Change me through Nebula",
-    "smallImageKey": "big"
+    "clientId": "1484903800266293379",
+    "smallImageText": "Eminium",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
