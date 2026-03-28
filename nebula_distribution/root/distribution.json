@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://eminium.ovh/api/rss",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1484903800266293379",
+    "smallImageText": "Eminium",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1810710,
-            "url": "http://localhost:8080/servers/EminiumFactions-1.21.1/fabricmods/required/BetterF3-11.0.3-Fabric-1.21.1.jar",
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/fabricmods/required/BetterF3-11.0.3-Fabric-1.21.1.jar",
             "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1157166,
-            "url": "http://localhost:8080/servers/EminiumFactions-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         }
