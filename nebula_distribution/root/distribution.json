@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.116.9+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2425600,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/fabricmods/required/fabric-api-0.116.9+1.21.1.jar",
+            "MD5": "b7ce8a460c6c9d4538536730864dd818"
+          }
+        },
+        {
           "id": "ru.vidtu:ias:9.0.4@jar",
           "name": "In-Game Account Switcher",
           "type": "FabricMod",
@@ -147,6 +157,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:11.0.4@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 973059,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.21.1/fabricmods/required/modmenu-11.0.4.jar",
+            "MD5": "b2b9c53a887c100f780708c4f36db6c4"
           }
         }
       ]
