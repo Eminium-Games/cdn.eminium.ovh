@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1959156,
             "MD5": "3fa0cee580b5c4a20947ae8149719a0f",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.5/fabric-loader-0.18.5.jar"
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/net/fabricmc/fabric-loader/0.18.5/fabric-loader-0.18.5.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "830035650d83273bf1e290f7ab95dca2",
-                "url": "http://localhost:8080/repo/versions/1.21.1-fabric-0.18.5/1.21.1-fabric-0.18.5.json"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/versions/1.21.1-fabric-0.18.5/1.21.1-fabric-0.18.5.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1505269,
                 "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://cdn.eminium.ovh/nebula_distribution/root/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
