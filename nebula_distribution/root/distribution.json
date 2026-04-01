@@ -547,16 +547,6 @@
           }
         },
         {
-          "id": "com.anchorstudios:rpgbackpacks:5.0.3@jar",
-          "name": "RPG Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 126127,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/rpg_backpacks-5.0.3-forge-1.20.x.jar",
-            "MD5": "9037c419ad189dfb5b62ee6ccc1ecc35"
-          }
-        },
-        {
           "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.14@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
