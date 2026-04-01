@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "com.ezzenix:chatanimation:1.1.3@jar",
+          "name": "ChatAnimation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 381473,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/chatanimation-forge-1.20.1-1.1.3.jar",
+            "MD5": "4d20168e4327b7e6357eb108030a0baf"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -517,6 +527,16 @@
           }
         },
         {
+          "id": "me.yacine:privatechat:1.0.0@jar",
+          "name": "PrivateChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40642,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/Private%20Chat%20-%201.0.0%20-%20(Forge).jar",
+            "MD5": "4c5985002f06e8f817b7fec35ebc6230"
+          }
+        },
+        {
           "id": "net.yigitguven:profile:1.0.4@jar",
           "name": "Profile API",
           "type": "ForgeMod",
@@ -534,6 +554,16 @@
             "size": 126127,
             "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/rpg_backpacks-5.0.3-forge-1.20.x.jar",
             "MD5": "9037c419ad189dfb5b62ee6ccc1ecc35"
+          }
+        },
+        {
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.14@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4895899,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.14.jar",
+            "MD5": "b666d0e41401eb860db28363f67b7f7f"
           }
         }
       ]
