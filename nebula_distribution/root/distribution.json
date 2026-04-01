@@ -433,16 +433,6 @@
           ]
         },
         {
-          "id": "com.yigit.advancedhud:advanced_hud:1.0.4@jar",
-          "name": "Advanced HUD",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 31041,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/advanced-hud-1.0.4-forge-1.20.1.jar",
-            "MD5": "b91bca1412b96abf8c466e8a1e88f891"
-          }
-        },
-        {
           "id": "com.anchorstudios:ancore:4.0.1@jar",
           "name": "AnCore",
           "type": "ForgeMod",
