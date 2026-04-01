@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "com.anchorstudios:ancore:4.0.1@jar",
+          "name": "AnCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3706,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/ancore-4.0.1-forge-1.20.1.jar",
+            "MD5": "b1e0cb147e02ff90c3776196d015e1b8"
+          }
+        },
+        {
           "id": "me.treyruffy:betterf3:7.0.2@jar",
           "name": "BetterF3",
           "type": "ForgeMod",
