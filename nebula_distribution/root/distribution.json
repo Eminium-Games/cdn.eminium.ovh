@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "com.yigit.advancedhud:advanced_hud:1.0.4@jar",
+          "name": "Advanced HUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31041,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/advanced-hud-1.0.4-forge-1.20.1.jar",
+            "MD5": "b91bca1412b96abf8c466e8a1e88f891"
+          }
+        },
+        {
           "id": "me.treyruffy:betterf3:7.0.2@jar",
           "name": "BetterF3",
           "type": "ForgeMod",
@@ -453,6 +463,26 @@
           }
         },
         {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.easyhammers:easy_hammers:7.0.2@jar",
+          "name": "Easy Hammers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 301974,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/easy_hammers-7.0.2-forge-1.20.1.jar",
+            "MD5": "db39f0285b318c84a970d576aa7bdf12"
+          }
+        },
+        {
           "id": "ru.vidtu:ias:9.0.4@jar",
           "name": "In-Game Account Switcher",
           "type": "ForgeMod",
@@ -464,6 +494,46 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.26@jar",
+          "name": "Inventory HUD+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 238088,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/inventoryhud.forge.1.20.1-3.4.26.jar",
+            "MD5": "e1d1380697c2417cfaf6fdd42982a4d0"
+          }
+        },
+        {
+          "id": "vazkii.neat:neat:1.20.1-41-FORGE@jar",
+          "name": "Neat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30595,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/Neat-1.20.1-41-FORGE.jar",
+            "MD5": "506cced5f0ddd6104de4d9a05f03a3c3"
+          }
+        },
+        {
+          "id": "net.yigitguven:profile:1.0.4@jar",
+          "name": "Profile API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31038,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/profile-1.0.4.jar",
+            "MD5": "242802647ad0d7cff29c58b3d1a34a6d"
+          }
+        },
+        {
+          "id": "com.anchorstudios:rpgbackpacks:5.0.3@jar",
+          "name": "RPG Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 126127,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/rpg_backpacks-5.0.3-forge-1.20.x.jar",
+            "MD5": "9037c419ad189dfb5b62ee6ccc1ecc35"
           }
         }
       ]
