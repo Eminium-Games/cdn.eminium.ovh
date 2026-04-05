@@ -527,6 +527,16 @@
           }
         },
         {
+          "id": "fr.shykaruu:pog:1.0.0@jar",
+          "name": "Pickaxe Of The Gods",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38416,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/pog-forge-1.20.1-1.0.0.jar",
+            "MD5": "309c9107757f318baa68e248001a9fab"
+          }
+        },
+        {
           "id": "me.yacine:privatechat:1.0.0@jar",
           "name": "PrivateChat",
           "type": "ForgeMod",
