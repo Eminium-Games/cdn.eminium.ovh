@@ -547,6 +547,16 @@
           }
         },
         {
+          "id": "net.mcreator.tradesystem:trade_system:3.0.0@jar",
+          "name": "Trade_system",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 198214,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/trade_system_1.20.1_V1.0.jar",
+            "MD5": "068ebc5905f395ad478091bbf938cc05"
+          }
+        },
+        {
           "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.14@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
