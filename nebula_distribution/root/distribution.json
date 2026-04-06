@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "ovh.eminium:eminiummod:1.0.1@jar",
+          "name": "EminiumMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10728270,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.1-forge-1.20.1.jar",
+            "MD5": "7459fadc8a9d9545ed726ebbb7d6f189"
+          }
+        },
+        {
           "id": "ru.vidtu:ias:9.0.4@jar",
           "name": "In-Game Account Switcher",
           "type": "ForgeMod",
