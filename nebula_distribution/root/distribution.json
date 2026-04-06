@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "net.mcreator:caveblock:2.0.0@jar",
+          "name": "CaveBlock",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82568,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/caveblock-2.0V1.20.1.jar",
+            "MD5": "c5a00fb219f5c1ed87d040f202bb0acf"
+          }
+        },
+        {
           "id": "com.ezzenix:chatanimation:1.1.3@jar",
           "name": "ChatAnimation",
           "type": "ForgeMod",
