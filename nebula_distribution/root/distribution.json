@@ -547,6 +547,16 @@
           }
         },
         {
+          "id": "dev.hangel:old_combat_mod:1.1@jar",
+          "name": "Old Combat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11922,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/OldCombatMod_1.20.X.jar",
+            "MD5": "a8d0de0915cb4424630b236e8ec5cdba"
+          }
+        },
+        {
           "id": "fr.shykaruu:pog:1.0.0@jar",
           "name": "Pickaxe Of The Gods",
           "type": "ForgeMod",
