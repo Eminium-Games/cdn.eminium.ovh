@@ -537,6 +537,16 @@
           }
         },
         {
+          "id": "net.polarfox27:jobs:1.20.1-3.3.0.1@jar",
+          "name": "Jobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232439,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/Jobs-1.20.1-3.3.0.1.jar",
+            "MD5": "86e5ceb113e7fce282e06e5393ef7ef2"
+          }
+        },
+        {
           "id": "vazkii.neat:neat:1.20.1-41-FORGE@jar",
           "name": "Neat",
           "type": "ForgeMod",
