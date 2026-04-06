@@ -493,16 +493,6 @@
           }
         },
         {
-          "id": "ovh.eminium:eminiummod:1.0.0@jar",
-          "name": "EminiumMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10728261,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.0-forge-1.20.1.jar",
-            "MD5": "18bb0b85f1021f84a11f6605a1ff7d8f"
-          }
-        },
-        {
           "id": "ovh.eminium:eminiummod:1.0.1@jar",
           "name": "EminiumMod",
           "type": "ForgeMod",
