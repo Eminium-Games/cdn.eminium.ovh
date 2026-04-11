@@ -513,16 +513,6 @@
           }
         },
         {
-          "id": "net.easyhammers:easy_hammers:7.0.2@jar",
-          "name": "Easy Hammers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 301974,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/easy_hammers-7.0.2-forge-1.20.1.jar",
-            "MD5": "db39f0285b318c84a970d576aa7bdf12"
-          }
-        },
-        {
           "id": "ovh.eminium:eminiummod:1.0.4@jar",
           "name": "EminiumMod",
           "type": "ForgeMod",
