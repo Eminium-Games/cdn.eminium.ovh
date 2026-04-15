@@ -513,13 +513,13 @@
           }
         },
         {
-          "id": "ovh.eminium:eminiummod:1.0.5@jar",
+          "id": "ovh.eminium:eminiummod:1.0.6@jar",
           "name": "EminiumMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11099457,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.5-forge-1.20.1.jar",
-            "MD5": "e9304b620809269f226342e61b2d7cb5"
+            "size": 11243814,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.6-forge-1.20.1.jar",
+            "MD5": "64a18a1019b35e5a808a333a44db51b9"
           }
         },
         {
