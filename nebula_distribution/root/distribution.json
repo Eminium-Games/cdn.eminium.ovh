@@ -597,16 +597,6 @@
           }
         },
         {
-          "id": "net.yigitguven:profile:1.0.4@jar",
-          "name": "Profile API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 31038,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/profile-1.0.4.jar",
-            "MD5": "242802647ad0d7cff29c58b3d1a34a6d"
-          }
-        },
-        {
           "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
           "name": "SuperMartijn642's Config Library",
           "type": "ForgeMod",
