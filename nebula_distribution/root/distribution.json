@@ -547,6 +547,16 @@
           }
         },
         {
+          "id": "com.progwml6:ironchest:1.20.1-14.4.4@jar",
+          "name": "Iron Chests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 311290,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/ironchest-1.20.1-14.4.4.jar",
+            "MD5": "078fbc43b289995ca4a8cced59bbf0ef"
+          }
+        },
+        {
           "id": "com.daqem:itemrestrictions:1.2.1@jar",
           "name": "Item Restrictions",
           "type": "ForgeMod",
@@ -604,6 +614,16 @@
             "size": 31038,
             "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/profile-1.0.4.jar",
             "MD5": "242802647ad0d7cff29c58b3d1a34a6d"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:storagedrawers:12.14.3@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1143623,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/StorageDrawers-forge-1.20.1-12.14.3.jar",
+            "MD5": "b028423a78cf22d461e00ac681b59eb2"
           }
         },
         {
