@@ -607,6 +607,7 @@
           }
         },
         {
+<<<<<<< HEAD
           "id": "net.yigitguven:profile:1.0.4@jar",
           "name": "Profile API",
           "type": "ForgeMod",
@@ -627,6 +628,8 @@
           }
         },
         {
+=======
+>>>>>>> 88252023a2a8abf3198bcaa2481d6b7468c3c4e5
           "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
           "name": "SuperMartijn642's Config Library",
           "type": "ForgeMod",
