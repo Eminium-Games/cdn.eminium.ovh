@@ -517,9 +517,9 @@
           "name": "EminiumMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11247367,
+            "size": 11246626,
             "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.9-forge-1.20.1.jar",
-            "MD5": "56065f5a6ca9e5ab1c16f56fb67b42ab"
+            "MD5": "c6a7ea434cbb3ea3d7cf609215bd8caf"
           }
         },
         {
