@@ -12,7 +12,7 @@
       "name": "EminiumFactions (Minecraft 1.20.1)",
       "description": "EminiumFactions Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://eminium.ovh/storage/img/eminium-logo.png",
-      "version": "11.0.0.1.1",
+      "version": "11.0.0.1.2",
       "address": "82.64.85.47:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -513,13 +513,13 @@
           }
         },
         {
-          "id": "ovh.eminium:eminiummod:1.0.8@jar",
+          "id": "ovh.eminium:eminiummod:1.0.9@jar",
           "name": "EminiumMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11247596,
-            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.8-forge-1.20.1.jar",
-            "MD5": "1a6fed36a84cd0f286f33e252ec2490b"
+            "size": 11247367,
+            "url": "https://cdn.eminium.ovh/nebula_distribution/root/servers/EminiumFactions-1.20.1/forgemods/required/eminiummod-1.0.9-forge-1.20.1.jar",
+            "MD5": "56065f5a6ca9e5ab1c16f56fb67b42ab"
           }
         },
         {
